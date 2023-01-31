@@ -12,5 +12,5 @@ Foi feito o relatório no Power BI para descobrirmos as musicas mais ouvidas, os
 
 ![Relatório no Portal Power BI] ([https://myoctocat.com/assets/images/base-octocat.svg](https://app.powerbi.com/reportEmbed?reportId=5a857557-0da0-4bc0-a48c-b5dc961ebb5c&autoAuth=true&ctid=deb3807d-c7e5-4328-8ebe-9676aa768598))
 
-![Imagem](https://user-images.githubusercontent.com/11944329/215900246-da4afcdc-8155-4119-b8d8-05dbcd0c125c.png)
 
+![imagem](https://user-images.githubusercontent.com/11944329/215905081-f0d13c6b-ef78-43d2-baaa-6f086f3c3f8b.PNG)
