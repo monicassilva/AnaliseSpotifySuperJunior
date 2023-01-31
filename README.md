@@ -1,5 +1,5 @@
 
-# Analise de Dados do artista de k-pop Super Jumior
+# Analise de Dados do artista de k-pop Super Junior
 
 
 
